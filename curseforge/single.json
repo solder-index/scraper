@@ -1,0 +1,76 @@
+[
+    {
+        "name": "jei",
+        "id": 238222
+    },
+    {
+        "name": "connected_textures_mod",
+        "id": 267602
+    },
+    {
+        "name": "iron_chests",
+        "id": 228756
+    },
+    {
+        "name": "iron_shulker_boxes",
+        "id": 314911
+    },
+    {
+        "name": "mekanism",
+        "id": 268560
+    },
+    {
+        "name": "applied_energistics_2",
+        "id": 223794
+    },
+    {
+        "name": "grave_stone_mod",
+        "id": 238551
+    },
+    {
+        "name": "emendatus_enigmatica",
+        "id": 399630
+    },
+    {
+        "name": "moving_elevators",
+        "id": 373051
+    },
+    {
+        "name": "forge_endertech",
+        "id": 244844
+    },
+    {
+        "name": "kubejs_forge",
+        "id": 238086,
+        "single_name": true
+    },
+    {
+        "name": "kubejs_fabric",
+        "id": 395864,
+        "single_name": true
+    },
+    {
+        "name": "create",
+        "id": 328085
+    },
+    {
+        "name": "mantle",
+        "id": 74924
+    },
+    {
+        "name": "passthrough_signs",
+        "id": 224633
+    },
+    {
+        "name": "smooth_boot",
+        "id": 415758
+    },
+    {
+        "name": "large_ore_deposits",
+        "id": 318833
+    },
+    {
+        "name": "anti_ghost",
+        "id": 273279
+    }
+]
