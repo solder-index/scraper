@@ -1,1 +1,1 @@
-DOWNLOAD_PATH = "./../data/curseforge"
+DOWNLOAD_PATH = "./data/curseforge"

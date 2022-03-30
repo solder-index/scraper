@@ -37,7 +37,7 @@ def get_download_uri(addon, file):
     return HttpClient.get(f"{BASE_URI}/{addon}/file/{file}/download-url")
 
 def get_file_md5(addon, file):
-    return HttpClient.get(f"{BASE_URI}/{addon}/file/{file}/download-url").
+    return HttpClient.get(f"{BASE_URI}/{addon}/file/{file}/download-url")
 
 def get_download_list(addonId):
     return [{ "url": x["downloadUrl"], "gameVersion": x["gameVersion"]} for x in get_list(addonId) if is_old(x)]
