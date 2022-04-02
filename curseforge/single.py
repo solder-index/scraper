@@ -46,9 +46,9 @@ def process(data, mod_name, single_name):
 
 def start():
 
-    with open('curseforge/single.json') as json_file:
+    with open('curseforge.json') as json_file:
         data = json.load(json_file)
-        for mod in data: 
+        for mod in data["single_mods"]: 
             for i in get_download_list(mod["id"]):
                 process(i, mod["name"], mod.get("single_name", False))
             with open("{}/{}/index.json".format(DOWNLOAD_PATH, mod["name"]), 'w') as f:

@@ -1,4 +1,5 @@
-[
+{
+    "single_mods": [
     {
         "name": "jei",
         "id": 238222
@@ -73,4 +74,5 @@
         "name": "anti_ghost",
         "id": 273279
     }
-]
+    ]
+}
